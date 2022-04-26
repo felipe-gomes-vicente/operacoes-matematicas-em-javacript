@@ -42,3 +42,9 @@ alert(`O Resto da divisão dos números é: ${restDivison}`)
 // Odd or Even
 oddOrEven ? alert(` A soma do número é Par: ${sum}`) : alert(` A soma do número é Impar: ${sum}`)
 
+// Comparing equal numbers
+if(compare) {
+  alert(` Os dois números inseridos são Iguais, número: ${numberPrimary} e número: ${numberSecondary}`)
+} else {
+  alert(` Os dois números inseridos são diferentes, número: ${numberPrimary} e número: ${numberSecondary}`)
+}
