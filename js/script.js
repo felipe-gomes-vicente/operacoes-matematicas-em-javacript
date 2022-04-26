@@ -39,3 +39,6 @@ alert(`A Multiplicação dos números é: ${multiplication}`)
 alert(`A Divisão dos números é: ${division}`)
 alert(`O Resto da divisão dos números é: ${restDivison}`)
 
+// Odd or Even
+oddOrEven ? alert(` A soma do número é Par: ${sum}`) : alert(` A soma do número é Impar: ${sum}`)
+
