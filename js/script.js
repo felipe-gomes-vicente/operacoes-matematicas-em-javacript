@@ -22,4 +22,13 @@ let numberSecondary = prompt("Digite o segundo número: ")
 numberPrimary = Number(numberPrimary)
 numberSecondary = Number(numberSecondary)
 
+// Operations
+const sum = numberPrimary + numberSecondary
+const subtraction = numberPrimary - numberSecondary
+const multiplication = numberPrimary * numberSecondary
+const division = numberPrimary / numberSecondary
+const restDivison = numberSecondary % numberSecondary
+const oddOrEven = sum % 2 === 0
+const compare = numberPrimary === numberSecondary
+
 
