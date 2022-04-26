@@ -32,3 +32,10 @@ const oddOrEven = sum % 2 === 0
 const compare = numberPrimary === numberSecondary
 
 
+// Result of the operations.
+alert(`A Soma dos números é: ${sum}`)
+alert(`A Subtração dos números é: ${subtraction}`)
+alert(`A Multiplicação dos números é: ${multiplication}`)
+alert(`A Divisão dos números é: ${division}`)
+alert(`O Resto da divisão dos números é: ${restDivison}`)
+
