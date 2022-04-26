@@ -16,4 +16,10 @@
 As operações matemáticas devem ser mostrada na tela.
  */
 
+// Catch Variables
+let numberPrimary = prompt("Digite o primeiro número: ")
+let numberSecondary = prompt("Digite o segundo número: ")
+numberPrimary = Number(numberPrimary)
+numberSecondary = Number(numberSecondary)
+
 
