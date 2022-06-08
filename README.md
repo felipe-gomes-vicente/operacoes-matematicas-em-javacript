@@ -1,7 +1,7 @@
 # Operações Matematicas
 
 <h1 align="center">
-    <img alt="Gif of the finished project Operações Matematicas" title="gif" src="./assets/space-cream.gif" />
+    <img alt="Gif of the finished project Operações Matematicas" title="gif" src="./image/operacoes-mat.gif" />
 </h1>
 
 <br>
